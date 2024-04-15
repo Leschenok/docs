@@ -1,6 +1,6 @@
 # T2 Documentation
 
-> Документация
+> Документация T2Plus Интеграция
 
 ## Development
 
